@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi there, I'm Bodepati Jahnavi!
 
-<!--
-**Jaanureddy-22/Jaanureddy-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a 1st year Artificial Intelligence Engineering student at G. Pullaiah College of Engineering and Technology.
 
-Here are some ideas to get you started:
+💻 Currently Learning:
+- C programming
+- Python
+- Git & GitHub
+- Basics of Machine Learning and AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 My Goal:
+To crack a ₹1+ crore AI/ML job after graduation through continuous learning and hands-on projects.
+
+🔍 Interests:
+- Building AI tools for students
+- Solving real-world problems using code
+- Competitive programming (HackerRank, LeetCode)
+
+📫 Reach me at: **jahnavireddybodepati@gmail.com**
+
+🌟 Fun fact: I'm passionate about becoming a top AI engineer and creating meaningful impact!
