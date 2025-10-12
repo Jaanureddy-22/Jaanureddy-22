@@ -1,6 +1,6 @@
 import java.util.*;
-import java.lang.*;
-import java.io.*;
+//import java.lang.*;
+//import java.io.*;
 
 class codechef
 {
@@ -20,5 +20,6 @@ class codechef
                 System.out.println("NO");
             }
         }
+        sc.close();
     }
 }
