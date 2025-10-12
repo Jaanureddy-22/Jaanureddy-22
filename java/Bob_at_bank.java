@@ -1,6 +1,6 @@
 import java.util.*;
-import java.lang.*;
-import java.io.*;
+//import java.lang.*;
+//import java.io.*;
 
 class Bob_at_bank
 {
@@ -17,7 +17,7 @@ class Bob_at_bank
             int z=sc.nextInt();
             System.out.println(w+((x-y)*z));
         }
-            
+           sc.close(); 
 
 	}
 }
