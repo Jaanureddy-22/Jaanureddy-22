@@ -1,15 +1,16 @@
 # 👋 Hi there, I'm Bodepati Jahnavi!
 
-🎓 I'm a 1st year Artificial Intelligence Engineering student at G. Pullaiah College of Engineering and Technology.
+🎓 I'm a 2nd year Artificial Intelligence Engineering student at G. Pullaiah College of Engineering and Technology.
 
 💻 Currently Learning:
 - C programming
 - Python
 - Git & GitHub
+- java
 - Basics of Machine Learning and AI
 
 🚀 My Goal:
-To crack a ₹1+ crore AI/ML job after graduation through continuous learning and hands-on projects.
+To crack a AI/ML job after graduation through continuous learning and hands-on projects.
 
 🔍 Interests:
 - Building AI tools for students
