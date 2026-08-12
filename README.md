@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Bodepati Jahnavi!
 
-🎓 I'm a 2nd year Artificial Intelligence Engineering student at G. Pullaiah College of Engineering and Technology.
+🎓 I'm a 3rd year Artificial Intelligence Engineering student at G. Pullaiah College of Engineering and Technology.
 
 💻 Currently Learning:
 - C programming
